@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#bg1{
+    background-image: url(./assets/cys-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
